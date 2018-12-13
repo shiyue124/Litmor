@@ -1,0 +1,26 @@
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	#header{
+		height:70px;
+	}
+	#header .header-title img{
+		width:90px;
+		margin-right:20px;
+		margin-top:-10px;
+	}
+	#header .header-title .title{
+		font-size:14px;
+	}
+	
+	/* banner */
+	.banner button{
+		position:absolute;
+		bottom:25%;
+		right:22%;
+		width:26%;
+		height:24px;
+		font-size:12px;
+		font-weight:300;
+		color:rgba(88,88,90,1);
+	}
+}
